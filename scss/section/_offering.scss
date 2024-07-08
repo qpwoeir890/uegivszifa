@@ -1,0 +1,75 @@
+.sectione-3 {
+    .text-7 {
+      font-family: "DM Sans", sans-serif;
+      text-align: center;
+      font-size: 40px;
+      font-weight: 700;
+      line-height: 52.08px;
+      margin: 60px 0px 160px 0px;
+    }
+    .but {
+      gap: 91px;
+      display: flex;
+      margin: 0px 0px 0px 80px;
+      .cart {
+        width: 356px;
+        height: 302px;
+        border-radius: 23px;
+        background-color: #fff;
+        box-shadow: 0px 15px 20px #a3a2a2;
+        padding: 75px 0px 0px 0px;
+        .img {
+          position: relative;
+          width: 102px;
+          height: 102px;
+          top: -130px;
+          left: 100px;
+          border-radius: 555px;
+          padding: 27px 0px 0px 27px;
+          background-color: rgb(255, 121, 80);
+          box-shadow: 0 0 20px #d9d9d9;
+        }
+        .img_ {
+          position: relative;
+          width: 102px;
+          height: 102px;
+          top: -130px;
+          left: 100px;
+          border-radius: 555px;
+          padding: 27px 0px 0px 27px;
+          background-color: rgb(255, 255, 255);
+          box-shadow: 0 0 20px #d9d9d9;
+        }
+        .img_- {
+          position: relative;
+          width: 102px;
+          height: 102px;
+          top: -130px;
+          left: 100px;
+          border-radius: 555px;
+          padding: 27px 0px 0px 27px;
+          background-color: rgb(255, 255, 255);
+          box-shadow: 0 0 20px #d9d9d9;
+        }
+        .text-5 {
+          font-family: "DM Sans", sans-serif;
+          font-size: 24px;
+          font-weight: 700;
+          line-height: 31.25px;
+          text-align: center;
+          margin-top: -90px;
+        }
+        .text-6 {
+          font-family: "DM Sans", sans-serif;
+          font-size: 16px;
+          font-weight: 400;
+          line-height: 26px;
+          text-align: center;
+          margin: 10px 0px 24px 0px;
+        }
+        .ikon {
+          margin: 0px 0px 0px 135px;
+        }
+      }
+    }
+  }

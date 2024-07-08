@@ -1,0 +1,45 @@
+.sectione-1 {
+    .box {
+      display: flex;
+      margin: 176px 0px 0px 0px;
+      .contetnt {
+        .text-1 {
+          font-family: "DM Sans", sans-serif;
+          font-size: 72px;
+          font-weight: 500;
+          line-height: 85.32px;
+          color: rgba(61, 61, 63, 1);
+        }
+        .text-2 {
+          font-family: "DM Sans", sans-serif;
+          font-size: 20px;
+          font-weight: 400;
+          line-height: 23.7px;
+          color: rgba(61, 61, 63, 1);
+          margin: 40px 61px 40px 0px;
+        }
+        .but {
+          width: 219px;
+          height: 53px;
+          border-radius: 5px;
+          background-color: rgba(243, 95, 47, 0.75);
+          border: none;
+          color: #fff;
+          font-family: "DM Sans", sans-serif;
+          font-size: 20px;
+          font-weight: 400;
+          line-height: 23.7px;
+          transition: 1s;
+        }
+        .but:hover {
+          background-color: #fff;
+          color: rgba(243, 95, 47, 0.75);
+          border: 1px solid rgba(243, 95, 47, 0.75);
+          box-shadow: 0 0 20px rgba(243, 95, 47, 0.75);
+        }
+      }
+      img {
+        margin: -60px 0px 0px 0px;
+      }
+    }
+  }

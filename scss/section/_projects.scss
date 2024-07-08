@@ -1,0 +1,58 @@
+.sectione-4 {
+    .text {
+      font-family: "DM Sans", sans-serif;
+      font-size: 40px;
+      font-weight: 700;
+      line-height: 52.08px;
+      text-align: center;
+      margin: 120px 0px 55px 0px;
+    }
+    .box {
+      .carte {
+        display: flex;
+        gap: 25px;
+        margin: 0px 0px 25px 0px;
+        .dibe {
+          width: 392px;
+          height: 368px;
+          box-shadow: 0px 15px 10px #d6d6d6;
+          border-radius: 10px;
+          background-color: #fff;
+          .text-1 {
+            font-family: "DM Sans", sans-serif;
+            font-size: 20px;
+            font-weight: 500;
+            line-height: 26.04px;
+            text-align: center;
+            margin: 19px 0px 0px 0px;
+          }
+          .text-2 {
+            font-family: "DM Sans", sans-serif;
+            font-size: 20px;
+            font-weight: 500;
+            line-height: 26.04px;
+            text-align: center;
+            margin: 19px 0px 0px 0px;
+          }
+        }
+      }
+      .but-2 {
+        width: 242px;
+        height: 53px;
+        border-radius: 5px;
+        margin: 32px 0px 0px 506px;
+        background-color: rgba(243, 95, 47, 0.75);
+        color: #fff;
+        border: none;
+        font-family: "DM Sans", sans-serif;
+        font-size: 20px;
+        transition: 1s;
+      }
+      .but-2:hover {
+        background-color: #fff;
+        color: rgba(243, 95, 47, 0.75);
+        box-shadow: 0 0 20px rgba(243, 95, 47, 0.75);
+        border: 1px solid rgba(243, 95, 47, 0.75);
+      }
+    }
+  }
